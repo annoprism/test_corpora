@@ -1,0 +1,194 @@
+{
+		"id": "28tldhmyqgn-cf62ec30-95dc-400a-b017-04f100244a63",
+		"type": "text",
+		"childs": [
+			{
+				"id": "28tldhmyqgn-b406c514-7f7f-4cdf-b7b7-89815061937c",
+				"type": "paragraph",
+				"childs": [
+					{
+						"id": "28tldhmyqgn-d689297e-2bd1-407b-bb63-8b2caab155aa",
+						"type": "sentence",
+						"childs": [
+							{
+								"id": "28tldhmyqgn-e43aa99a-83a9-4457-87cd-e515b7f83ed3",
+								"type": "subSentence",
+								"childs": [
+									{
+										"id": "28tldhmyqgn-44fa0e9b-8071-4d10-85df-acce7a90f5ee",
+										"type": "word",
+										"value": "Результати"
+									},
+									{
+										"id": "28tldhmyqgn-eb999227-4f7f-4628-b250-b6633c668c48",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-325bf956-5757-4a53-b931-65e0aaa06529",
+										"type": "word",
+										"value": "дослідження"
+									},
+									{
+										"id": "28tldhmyqgn-5ea437f2-ea58-43d4-987f-d83705e1b151",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"type": "ORGANIZATION",
+										"id": "28tldhmyqgn-144aa4b5-885a-4e0d-bd5d-c54f6d696a90",
+										"childs": [
+											{
+												"id": "28tldhmyqgn-0057a91b-8ae1-4de8-8918-dc7d3d225741",
+												"type": "word",
+												"value": "Центру"
+											},
+											{
+												"id": "28tldhmyqgn-ccaf743f-2b8f-47bc-b347-37768774509b",
+												"type": "whitespace",
+												"value": " "
+											},
+											{
+												"id": "28tldhmyqgn-3232962e-d312-423a-9c53-06b834a53c95",
+												"type": "word",
+												"value": "обчислювальних"
+											},
+											{
+												"id": "28tldhmyqgn-844a1ded-ab46-4b38-91b4-5b84d0ee2299",
+												"type": "whitespace",
+												"value": " "
+											},
+											{
+												"id": "28tldhmyqgn-69d5bf06-de4a-44cb-9e2c-121ccda21f54",
+												"type": "word",
+												"value": "наук"
+											},
+											{
+												"id": "28tldhmyqgn-bc03d6df-8a98-49c5-8c78-56709bff143f",
+												"type": "whitespace",
+												"value": " "
+											},
+											{
+												"id": "28tldhmyqgn-95acdd24-9d99-43d9-8ba0-664a63106cc6",
+												"type": "word",
+												"value": "Рікена"
+											}
+										]
+									},
+									{
+										"id": "28tldhmyqgn-da0ab9ba-438a-4f66-bd0f-56461e39d262",
+										"type": "whitespace",
+										"value": " "
+									}
+								],
+								"value": "Результати дослідження Центру обчислювальних наук Рікена "
+							},
+							{
+								"id": "28tldhmyqgn-df4e42c2-1eb1-4843-8f96-b94cc1937c7e",
+								"type": "punctuation",
+								"value": "("
+							},
+							{
+								"id": "28tldhmyqgn-76af8e4a-6413-4de8-a150-d77286c423bb",
+								"type": "subSentence",
+								"childs": [
+									{
+										"type": "LOCATION",
+										"id": "28tldhmyqgn-0b52808c-1037-4afa-a3b9-dcc993deec1d",
+										"childs": [
+											{
+												"id": "28tldhmyqgn-b6208445-101b-4c33-b54f-92789ec715b1",
+												"type": "word",
+												"value": "Японія"
+											}
+										]
+									}
+								],
+								"value": "Японія"
+							},
+							{
+								"id": "28tldhmyqgn-a897e31e-78d9-4b32-b0c1-4648aa25c890",
+								"type": "punctuation",
+								"value": ")"
+							},
+							{
+								"id": "28tldhmyqgn-4d996414-0077-4679-adc3-bfe1b2fd1d58",
+								"type": "subSentence",
+								"childs": [
+									{
+										"id": "28tldhmyqgn-b8f5ce42-b6e3-4e77-b9f3-3943d7288fff",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-ccb89357-f008-4627-bf4d-8b18c435330c",
+										"type": "word",
+										"value": "та"
+									},
+									{
+										"id": "28tldhmyqgn-937581e8-fb74-4608-8592-4577ed12bb8b",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-8e00802c-b480-441e-b2dc-e59eae222c3b",
+										"type": "word",
+										"value": "інших"
+									},
+									{
+										"id": "28tldhmyqgn-d66367c7-3f62-46a9-91c1-77863d557fcd",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-dffa67d0-548f-43a1-951b-4f0440d89d49",
+										"type": "word",
+										"value": "установ"
+									},
+									{
+										"id": "28tldhmyqgn-b9a45b45-858f-4854-9bd6-586b4e62bee1",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-d871cc0c-6e68-456a-9a9d-40d36310f2d1",
+										"type": "word",
+										"value": "опублікували"
+									},
+									{
+										"id": "28tldhmyqgn-6da36e33-8c18-490c-ac2f-843c532ae486",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-52924444-647a-495a-8335-06a88a82ba59",
+										"type": "number",
+										"value": "13"
+									},
+									{
+										"id": "28tldhmyqgn-900241a9-fe58-4e39-b9ca-3bbb9ce82d1c",
+										"type": "whitespace",
+										"value": " "
+									},
+									{
+										"id": "28tldhmyqgn-f6718263-ceae-4308-af9a-452caf3e2edf",
+										"type": "word",
+										"value": "жовтня"
+									}
+								],
+								"value": " та інших установ опублікували 13 жовтня"
+							},
+							{
+								"id": "28tldhmyqgn-a0079522-f713-4b4d-ad57-56594b09f2fc",
+								"type": "punctuation",
+								"value": "."
+							}
+						],
+						"value": "Результати дослідження Центру обчислювальних наук Рікена (Японія) та інших установ опублікували 13 жовтня"
+					}
+				],
+				"value": "Результати дослідження Центру обчислювальних наук Рікена (Японія) та інших установ опублікували 13 жовтня"
+			}
+		],
+		"value": "Результати дослідження Центру обчислювальних наук Рікена (Японія) та інших установ опублікували 13 жовтня"
+	}
