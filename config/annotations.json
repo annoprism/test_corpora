@@ -1,0 +1,112 @@
+[
+		{
+			"aid":"a0",
+			"name": "text",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a1",
+			"name": "paragraph",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a2",
+			"name": "sentence",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+		    "aid":"a3",
+			"name": "subSentence",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+		  "aid":"a4",
+			"name": "word",
+			"selection": [
+				"bundly"
+			],
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a5",
+			"name": "number",
+			"selection": [
+				"bundly"
+			],
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a6",
+			"name": "whitespace",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a7",
+			"name": "punctuation",
+			"readonly": true,
+			"color": "transparent"
+		},
+		{
+			"aid":"a8",
+			"name": "ORGANOZATION",
+			"nestedIn": [
+				"subSentence"
+			],
+			"selection": [
+				"singly",
+				"wrap"
+			],
+			"label": "ORG",
+			"icon": "mdi-pen",
+			"color": "#ffecb3"
+		},
+		{
+			"aid":"a9",
+			"name": "PERSON",
+			"nestedIn": [
+				"subSentence"
+			],
+			"selection": [
+				"singly",
+				"wrap"
+			],
+			"label": "PERS",
+			"icon": "mdi-pen",
+			"color": "#DCEDC8"
+		},
+		{
+			"aid":"a10",
+			"name": "LOCATION",
+			"nestedIn": [
+				"subSentence"
+			],
+			"selection": [
+				"singly",
+				"wrap"
+			],
+			"label": "LOG",
+			"icon": "mdi-pen",
+			"color": "#426D0F"
+		},
+		{
+			"aid":"a11",
+			"name": "DATE",
+			"nestedIn": [
+				"subSentence"
+			],
+			"selection": [
+				"singly",
+				"wrap"
+			],
+			"label": "DATE",
+			"icon": "mdi-pen",
+			"color": "#4DD0E1"
+		}
+	]
