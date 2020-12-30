@@ -1,5 +1,15 @@
-{
-  "5a37c84a4dd564c00875a351":"author",
-  "5ac52b8b3792961814660867":"contributor",
-  "5fec71ffca4d787005a41966":"contributor"
-}
+[
+  {
+    "email":"boldak.andrey@gmail.com",
+    "branches":"*"
+  },
+  {
+    "email":"datajockey.forms@gmail.com",
+    "branches":["data-jokey"]
+  },
+  {
+    "email":"anno.prisma@gmail.com",
+    "branches": ["anno-prisma"]
+  }
+  
+]
